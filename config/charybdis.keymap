@@ -164,7 +164,7 @@
 &kp C_VOL_DN     &none   &none  &none           &none           &none            &none     &none   &none   &none       &kp MINUS         &kp N7     &kp N8        &kp N9
 &none            &none   &none  &none           &kp UP_ARROW    &none            &none     &none   &none   &none       &kp ASTERISK      &kp N4     &kp N5        &kp N6
 &none            &trans  &none  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &none     &none   &none   &kp ESCAPE  &kp PLUS          &kp N1     &kp N2        &kp N3
-&trans           &trans  &to 0  &trans          &none           &trans           &trans    &trans  &trans  &to 0       &kp LS(NUMBER_4)  &kp N0     &kp PERIOD    &kp DEL
+&trans           &trans  &to 0  &trans          &trans          &trans           &trans    &trans  &trans  &to 0       &kp LS(NUMBER_4)  &kp N0     &kp PERIOD    &kp DEL
                                 &M2             &M4             &M3              &none     &trans  &trans  &trans      &trans
             >;
         };
